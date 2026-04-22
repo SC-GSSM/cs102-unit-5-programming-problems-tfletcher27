@@ -132,7 +132,7 @@ public class Unit5 {
     }
 
     /**
-     * Reurns a string representation of this Unit5 object.
+     * Reurns a strng representation of this Unit5 object.
      * Format: Unit5{name='[name]', age=[age]}
      *
      * @return formatted string representation
